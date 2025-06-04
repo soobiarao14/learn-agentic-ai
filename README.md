@@ -1,6 +1,11 @@
-# learn-agentic-ai
-AI AGENTS SDK
+pen in Google Colab
 
+OpenAI Agents using Google Gemini Model
+https://openai.github.io/openai-agents-python/
+
+https://openai.github.io/openai-agents-python/models/
+
+https://ai.google.dev/gemini-api/docs/openai
 
 Create a .env file with your gemini key
 
